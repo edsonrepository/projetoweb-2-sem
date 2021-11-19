@@ -60,6 +60,7 @@ label[for=azul]::after {
 }
 
 .produto h1 {
+    font-family: "Modak", cursive;
     font-size: 1.8em;
     font-weight: bold;
 }
